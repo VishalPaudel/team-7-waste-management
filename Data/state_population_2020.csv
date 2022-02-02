@@ -1,41 +1,37 @@
-﻿"State/UT wise Aadhaar Saturation (Overall) - All Age Groups
-31st December, 2020",,,,
-S.No,State Name,Total Population (Projected 2020),Numbers of  Aadhaar assigned (LIVE),Saturation % (LIVE)
-1,A & N Islands*,"4,17,036","3,86,887",92.77%
-2,Andhra Pradesh*,"5,39,03,393","4,90,64,995",91.02%
-3,Arunachal Pradesh,"15,70,458","12,37,815",78.82%
-4,Assam,"3,56,07,039","1,53,25,268",43.04%
-5,Bihar,"12,47,99,926","10,36,87,457",83.08%
-6,Chandigarh*,"11,58,473","11,34,740",97.95%
-7,Chhattisgarh,"2,94,36,231","2,75,05,900",93.44%
-8,Dadra & Nagar Haveli and Daman & Diu*,"6,15,724","5,92,838",96.28%
-9,Delhi,"1,87,10,922","2,19,23,885",117.17%
-10,Goa*,"15,86,250","15,87,487",100.08%
-11,Gujarat*,"6,38,72,399","6,27,44,098",98.23%
-12,Haryana*,"2,82,04,692","2,92,11,350",103.57%
-13,Himachal Pradesh*,"74,51,955","75,89,415",101.84%
-14,Jammu Kashmir,"1,36,06,320","1,07,97,544",79.36%
-15,Jharkhand,"3,85,93,948","3,47,23,702",89.97%
-16,Karnataka,"6,75,62,686","6,27,41,309",92.86%
-17,Kerala,"3,56,99,443","3,65,14,435",102.28%
-18,Ladakh,"2,89,023","2,20,750",76.38%
-19,Lakshadweep,"73,183","71,357",97.51%
-20,Madhya Pradesh,"8,53,58,965","7,52,28,066",88.13%
-21,Maharashtra,"12,31,44,223","11,47,19,961",93.16%
-22,Manipur,"30,91,545","25,33,057",81.93%
-23,Meghalaya,"33,66,710","13,66,343",40.58%
-24,Mizoram,"12,39,244","11,24,144",90.71%
-25,Nagaland,"22,49,695","12,84,310",57.09%
-26,Odisha,"4,63,56,334","4,28,31,826",92.40%
-27,Puducherry,"14,13,542","12,85,937",90.97%
-28,Punjab*,"3,01,41,373","3,04,41,970",101.00%
-29,Rajasthan,"8,10,32,689","7,05,34,913",87.05%
-30,Sikkim,"6,90,251","5,76,957",83.59%
-31,Tamil Nadu,"7,78,41,267","7,24,77,405",93.11%
-32,Telangana*,"3,85,10,982","3,95,51,086",102.70%
-33,Tripura,"41,69,794","36,90,076",88.50%
-34,Uttar Pradesh*,"23,78,82,725","20,51,12,745",86.22%
-35,Uttarakhand,"1,12,50,858","1,11,12,939",98.77%
-36,West Bengal,"9,96,09,303","9,18,45,432",92.21%
-,,,,
-TOTAL,,"137,05,08,600","123,27,78,396",89.95%
+﻿S.No,State Name,Total Population (Projected 2020)
+1,Andaman & Nicobar Islands,417036
+2,Andhra Pradesh,53903393
+3,Arunachal Pradesh,1570458
+4,Assam,35607039
+5,Bihar,124799926
+6,Chandigarh,1158473
+7,Chhattisgarh,29436231
+8,Dadra & Nagar Haveli and Daman & Diu,615724
+9,Delhi,18710922
+10,Goa,1586250
+11,Gujarat,63872399
+12,Haryana,28204692
+13,Himachal Pradesh,7451955
+14,Jammu Kashmir,13606320
+15,Jharkhand,38593948
+16,Karnataka,67562686
+17,Kerala,35699443
+19,Lakshadweep,73183
+20,Madhya Pradesh,85358965
+21,Maharashtra,123144233
+22,Manipur,3091545
+23,Meghalaya,3366710
+24,Mizoram,1239244
+25,Nagaland,2249695
+26,Odisha,46356334
+27,Puducherry,1413542
+28,Punjab,30141373
+29,Rajasthan,81032689
+30,Sikkim,690251
+31,Tamil Nadu,77841267
+32,Telangana,38510982
+33,Tripura,4169794
+34,Uttar Pradesh,237882775
+35,Uttarakhand,11250858
+36,West Bengal,99609303
+TOTAL,,13750508600

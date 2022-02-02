@@ -1,18 +1,13 @@
-﻿States / UTs,Sewage Generation (in MLD),Installed Capacity (in MLD),Proposed Capacity (in MLD),"Total Treatment Capacity
-(in MLD) including
-planned / proposed","Operational Treatment Capacity
-(in MLD)"
-"Andaman             &
-Nicobar Islands",23,0,0,0,0
+﻿States / UTs,Sewage Generation (in MLD),Installed Capacity (in MLD),Proposed Capacity (in MLD),Total Treatment Capacity (in MLD) including planned / proposed,Operational Treatment Capacity (in MLD)
+Andaman & Nicobar Islands,23,0,0,0,0
 Andhra Pradesh,2882,833,20,853,443
-"Arunachal
-Pradesh",62,0,0,0,0
+Arunachal Pradesh,62,0,0,0,0
 Assam,809,0,0,0,0
 Bihar,2276,10,621,631,0
 Chandigarh,188,293,0,293,271
 Chhattisgarh,1203,73,0,73,73
-"Dadra    &    Nagar
-Haveli",67,24,0,24,24
+Dadra & Nagar Haveli,67,24,0,24,24
+Delhi,3330,2896,0,2896,2715
 Goa,176,66,38,104,44
 Gujarat,5013,3378,0,3378,3358
 Haryana,1816,1880,0,1880,1880
@@ -28,7 +23,6 @@ Manipur,168,0,0,0,0
 Meghalaya,112,0,0,0,0
 Mizoram,103,10,0,10,0
 Nagaland,135,0,0,0,0
-NCT of Delhi,3330,2896,0,2896,2715
 Orissa,1282,378,0,378,55
 Pondicherry,161,56,3,59,56
 Punjab,1889,1781,0,1781,1601
@@ -41,4 +35,3 @@ Uttar Pradesh,8263,3374,0,3374,3224
 Uttarakhand,627,448,67,515,345
 West Bengal,5457,897,305,1202,337
 Total,72368,31841,4827,36668,26869
-,,,,,
