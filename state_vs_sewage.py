@@ -23,11 +23,3 @@ y_sample = [2, 5, 10, 17]
 x_sample = [1, 2, 3, 4]
 
 m_plt.show()
-
-fig, population_vs_MLD = m_plt.subplots(1,1)
-population_vs_MLD.plot(lst_population, lst_sewage_generation, 'or')
-fig.set_figwidth(10)
-m_plt.ylabel('MLD')
-m_plt.xlabel('Population')
-m_plt.xticks(rotation=90)
-m_plt.show()
