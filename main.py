@@ -1,3 +1,2 @@
-# A test file
 
-print()
+print('Hello')
