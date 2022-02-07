@@ -1,37 +1,36 @@
-﻿S.No,State Name,Total Population (Projected 2020)
-1,Andaman & Nicobar Islands,417036
-2,Andhra Pradesh,53903393
-3,Arunachal Pradesh,1570458
-4,Assam,35607039
-5,Bihar,124799926
-6,Chandigarh,1158473
-7,Chhattisgarh,29436231
-8,Dadra & Nagar Haveli and Daman & Diu,615724
-9,Delhi,18710922
-10,Goa,1586250
-11,Gujarat,63872399
-12,Haryana,28204692
-13,Himachal Pradesh,7451955
-14,Jammu Kashmir,13606320
-15,Jharkhand,38593948
-16,Karnataka,67562686
-17,Kerala,35699443
-19,Lakshadweep,73183
-20,Madhya Pradesh,85358965
-21,Maharashtra,123144233
-22,Manipur,3091545
-23,Meghalaya,3366710
-24,Mizoram,1239244
-25,Nagaland,2249695
-26,Odisha,46356334
-27,Puducherry,1413542
-28,Punjab,30141373
-29,Rajasthan,81032689
-30,Sikkim,690251
-31,Tamil Nadu,77841267
-32,Telangana,38510982
-33,Tripura,4169794
-34,Uttar Pradesh,237882775
-35,Uttarakhand,11250858
-36,West Bengal,99609303
-TOTAL,,13750508600
+﻿State Name,Total Population (Projected 2020),Sewage Generation (in MLD),Installed Capacity (in MLD),Proposed Capacity (in MLD),Total Treatment Capacity (in MLD) including planned / proposed,Operational Treatment Capacity (in MLD)
+Andaman & Nicobar Islands,417036,23,0,0,0,0
+Andhra Pradesh,53903393,2882,833,20,853,443
+Arunachal Pradesh,1570458,62,0,0,0,0
+Assam,35607039,809,0,0,0,0
+Bihar,124799926,2276,10,621,631,0
+Chandigarh,1158473,188,293,0,293,271
+Chhattisgarh,29436231,1203,73,0,73,73
+Dadra & Nagar Haveli and Daman & Diu,615724,67,24,0,24,24
+Delhi,18710922,3330,2896,0,2896,2715
+Goa,1586250,176,66,38,104,44
+Gujarat,63872399,5013,3378,0,3378,3358
+Haryana,28204692,1816,1880,0,1880,1880
+Himachal Pradesh,7451955,116,136,19,155,99
+Jammu Kashmir,13606320,665,218,4,222,93
+Jharkhand,38593948,1510,22,617,639,22
+Karnataka,67562686,4458,2712,0,2712,1922
+Kerala,35699443,4256,120,0,120,114
+Lakshadweep,73183,13,0,0,0,0
+Madhya Pradesh,85358965,3646,1839,85,1924,684
+Maharashtra,123144233,9107,6890,2929,9819,6366
+Manipur,3091545,168,0,0,0,0
+Meghalaya,3366710,112,0,0,0,0
+Mizoram,1239244,103,10,0,10,0
+Nagaland,2249695,135,0,0,0,0
+Odisha,46356334,1282,378,0,378,55
+Puducherry,1413542,161,56,3,59,56
+Punjab,30141373,1889,1781,0,1781,1601
+Rajasthan,81032689,3185,1086,109,1195,783
+Sikkim,690251,52,20,10,30,18
+Tamil Nadu,77841267,6421,1492,0,1492,1492
+Telangana,38510982,2660,901,0,901,842
+Tripura,4169794,237,901,0,8,8
+Uttar Pradesh,237882775,8263,3374,0,3374,3224
+Uttarakhand,11250858,627,448,67,515,345
+West Bengal,99609303,5457,897,305,1202,337
